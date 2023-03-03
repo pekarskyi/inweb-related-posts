@@ -27,17 +27,8 @@
         <a href="<?php the_permalink() ?>" rel="bookmark" title="<?php the_title(); ?>">
             <?php the_post_thumbnail(); ?></a>
         <div class="related_item_text">
-            <span class="related_item_text_date"><?php echo get_the_date(); ?></span>
-            <a href="<?php the_permalink() ?>" rel="bookmark" title="<?php the_title(); ?>">
-                <h3><?php the_title(); ?></h3>
-				
-				<div class="related_item_read_more">
-					<?php if(ICL_LANGUAGE_CODE=='ru'): ?>
-					Подробнее
-					<?php elseif(ICL_LANGUAGE_CODE=='uk'): ?>
-					Детальніше
-					<?php endif; ?>
-				</div>
+                <a href="<?php the_permalink() ?>" rel="bookmark" title="<?php the_title(); ?>">
+                <h3><?php the_title(); ?></h3> 
             </a>
         </div>
         </a>
