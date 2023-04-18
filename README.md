@@ -9,3 +9,5 @@
 Файли розміщуємо в дочірній темі WP, при необхідності коригуємо стилі під дизайн свого сайту.
 
 Виникли питання? - Задавайте [тут](https://github.com/Dizer7/inweb-related-posts/issues).
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://sitex.me/standwithukraine)
